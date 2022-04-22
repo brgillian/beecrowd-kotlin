@@ -1,5 +1,5 @@
 package iniciante
-
+//Bee 1016 - Distância
 fun main(){
 
     val distanciaKm = readLine()!!.toInt()
