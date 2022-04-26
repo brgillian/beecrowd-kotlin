@@ -1,5 +1,5 @@
 package iniciante
-
+//Bee1020 - Idade em dias
 import kotlin.math.roundToInt
 
 fun main(){
@@ -18,6 +18,5 @@ fun main(){
     println("$meses mes(es)")
     idadeEmDias = idadeEmDias - (meses * 30)
     println("$idadeEmDias dia(s)")
-
 
 }
