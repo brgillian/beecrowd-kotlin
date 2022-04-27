@@ -1,11 +1,5 @@
 package iniciante
 
-import java.math.RoundingMode
-import java.text.DecimalFormat
-import java.text.NumberFormat
-import javax.swing.text.NumberFormatter
-
-
 //Bee1021 - Notas e Moedas
 //Notas: 100, 50, 20, 10, 5, 2
 //Modedas: 1, 0.50, 0.25, 0.10, 0.05 e 0.01
